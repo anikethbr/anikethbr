@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniketh B R</h1>
 <h3 align="center">Developer at an MNC</h3>
 
-- 🌱 I’m currently learning **SAP** <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP" width="200" />
+<p align="left"> - 🌱 I’m currently learning **SAP** <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP" width="40" /></p>
 
 - 💬 Ask me about **SAP**
 
