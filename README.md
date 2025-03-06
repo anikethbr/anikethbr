@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aniketh B R</h1>
 <h3 align="center">Developer at an MNC</h3>
 
-<p align="left"> - 🌱 I’m currently learning **SAP** <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP" width="40" /></p>
+- 🌱 I’m currently learning <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP" width="40" />
 
-- 💬 Ask me about **SAP**
+- 💬 Ask me about <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP" width="40" />
 
 - 📫 How to reach me **anikethbr73@gmail.com**
 
