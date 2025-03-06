@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniketh B R</h1>
 <h3 align="center">Developer at an MNC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikethbr&label=Profile%20views&color=0e75b6&style=flat" alt="anikethbr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikethbr" alt="anikethbr" /></a> </p>
-
-- 🌱 I’m currently learning **SAP**
+- 🌱 I’m currently learning **SAP** <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP" width="200" />
 
 - 💬 Ask me about **SAP**
 
